@@ -1,3 +1,9 @@
+## Archival notice
+
+This repository is kept for **historical / posterity** purposes only. It is **not maintained**, not security-audited, and **not intended for production use**.
+
+---
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
